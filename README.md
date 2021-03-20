@@ -1,6 +1,5 @@
 # Address
 
-## INMAC (인맥)
 #### Address book application project using Xcode
 
 #### 제작자 : 송예진
